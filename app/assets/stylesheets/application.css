@@ -15,3 +15,10 @@
  body {
  	padding-top:70px;
  }
+
+ .form-actions {
+ 	margin:5px 0;
+ 	border-top: 1px solid #e1e1e1;
+ 	padding:15px 0;
+ 	background:rgba(0,0,0,.03);
+ }
